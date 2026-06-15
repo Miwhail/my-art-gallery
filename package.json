@@ -2,7 +2,7 @@
   "name": "my-art-gallery",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://gfhunk.github.io/my-art-gallery",
+  "homepage": "https://Miwhail.github.io/my-art-gallery",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
